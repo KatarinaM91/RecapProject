@@ -5,11 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9670296c-ff70-4a00-8d0f-21380e9b7dbe" name="Default Changelist" comment=" User story 100 work3">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/userStory101.java" afterDir="false" />
     </list>
-    <list id="fd849641-523a-4a54-bc12-511001a8bcbe" name="Started User story101" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list id="fd849641-523a-4a54-bc12-511001a8bcbe" name="Started User story101" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -34,16 +32,10 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="WARN_ABOUT_DETACHED_HEAD" value="false" />
   </component>
-  <component name="LineStatusTrackerManager">
-    <file path="$PROJECT_DIR$/.idea/workspace.xml">
-      <ranges>
-        <range start1="25" end1="25" start2="25" end2="28" changelist="9670296c-ff70-4a00-8d0f-21380e9b7dbe" />
-        <range start1="145" end1="145" start2="148" end2="159" changelist="fd849641-523a-4a54-bc12-511001a8bcbe" />
-      </ranges>
-    </file>
-  </component>
   <component name="ProjectId" id="1ugllE3CQPZEtekdymnvgr2FT6O" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="showLibraryContents" value="true" />
   </component>
@@ -164,6 +156,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="hello" />
