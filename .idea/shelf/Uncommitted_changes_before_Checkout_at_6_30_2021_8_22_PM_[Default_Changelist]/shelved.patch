@@ -1,0 +1,17 @@
+Index: src/test/java/Hello.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+>public class Hello {\r\n\r\n    public static void main(String[] args) {\r\n\r\n        System.out.println(\"hello world\");\r\n        System.out.println(\"Recapping like day 1, I wanted to recap more\");\r\n        System.out.println(\"bla\");\r\n        System.out.println(\"bla\");\r\n        System.out.println(\"hello, hello\");\r\n    }\r\n}\r\n
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/src/test/java/Hello.java b/src/test/java/Hello.java
+--- a/src/test/java/Hello.java	(revision 05e816349110dc8c25df905bf7ae6cccd566be96)
++++ b/src/test/java/Hello.java	(date 1625098910017)
+@@ -7,5 +7,6 @@
+         System.out.println("bla");
+         System.out.println("bla");
+         System.out.println("hello, hello");
++        System.out.println("yes");
+     }
+ }
